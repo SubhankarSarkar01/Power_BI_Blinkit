@@ -5,16 +5,13 @@
 This Power BI report provides a comprehensive overview of Blinkit's sales performance. It includes analysis by product category, time period, location (city/region), and promotional campaign. The dashboard is designed to help business teams monitor KPIs, identify trends, and optimize inventory and marketing efforts.
 
 ## 📁 File Name
-- `Blinkit_Sales_Report.pbix`
+- `Internship_Power_BI.pbix`
 
 ## 📅 Last Updated
 - July 10, 2025
 
 ## 📂 Data Sources
-- **Order Transactions** — MySQL: `blinkit_db.order_history`  
-- **Product Master** — Excel: `blinkit_products.xlsx`  
-- **Promotions** — Google Sheets: `blinkit_campaigns_2025`  
-- **Customer Info** — PostgreSQL: `blinkit_customers`
+- **Kaggle** — `https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset/data`  
 
 ## 🔄 Data Refresh
 - **Scheduled Refresh:** ✅ Yes  
@@ -39,8 +36,8 @@ This Power BI report provides a comprehensive overview of Blinkit's sales perfor
 - Campaign ROI
 
 ## 🔐 Access & Ownership
-- **Report Owner:** [Your Name / Team]  
-- **Maintainer:** [Analyst Name]  
+- **Report Owner:** Subhankar Sarkar 
+- **Maintainer:** Subhankar Sarkar
 - **Workspace:** `Blinkit Business Analytics`
 
 ## ⚠️ Known Issues
